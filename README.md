@@ -1,7 +1,5 @@
 # Tweet sentiment with Adonis
 
-This is the process app.
-
 1. Crawling data in twitter
 2. save tweet into postgress databases
 3. Preprocessing text
