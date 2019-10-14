@@ -1,25 +1,20 @@
-# Adonis fullstack application
+# Tweet sentiment with Adonis mvc nodejs framework
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
-1. Bodyparser
-2. Session
-3. Authentication
-4. Web security middleware
-5. CORS
-6. Edge template engine
-7. Lucid ORM
-8. Migrations and seeds
+1. Crawling data in twitter
+2. save tweet into postgress databases
+3. Preprocessing text
+4. Labeling tweet
+5. Classification model
+5. Report
 
-## Setup
-
-Use the adonis command to install the blueprint
-
+## Start Project
 ```bash
-adonis new yardstick
+adonis serve --dev
 ```
 
-or manually clone the repo and then run `npm install`.
+or manually run `npm run server.js`.
 
 
 ### Migrations
