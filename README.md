@@ -1,6 +1,6 @@
-# Tweet sentiment with Adonis mvc nodejs framework
+# Tweet sentiment with Adonis
 
-This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
+This is the process app.
 
 1. Crawling data in twitter
 2. save tweet into postgress databases
